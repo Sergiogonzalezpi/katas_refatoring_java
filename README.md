@@ -1,5 +1,9 @@
 # Refactoring Katas
 
+Thanks a lot, [Trikitrok](https://github.com/trikitrok).
+
+Here I will use the kata repository to solve it. For studying codesmells.
+
 ### 1. [Refactoring a smelly Mars Rover's code](https://github.com/codesai/code-smells-refactoring-course-java/tree/master/01-refactoring-smelly-mars-rover)
 
 ### 2. [Refactoring classic Video Store Example](https://github.com/codesai/code-smells-refactoring-course-java/tree/master/02-refactoring-video-store)
